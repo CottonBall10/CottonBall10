@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Boot.dev Introduction to Python Course certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/e7c498c5-6964-4533-880a-dd0155bde376.jpeg?v=1789313407)](https://www.boot.dev/certificates/e7c498c5-6964-4533-880a-dd0155bde376)
 
 <!--
 **CottonBall10/CottonBall10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
