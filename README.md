@@ -1,5 +1,6 @@
 [![Boot.dev Introduction to Python Course certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/e7c498c5-6964-4533-880a-dd0155bde376.jpeg?v=1789313407)](https://www.boot.dev/certificates/e7c498c5-6964-4533-880a-dd0155bde376)
-
+[![Boot.dev Learn Linux certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/62adfadf-6330-41dd-b02b-1eb5c6b894b8.jpeg?v=1789358188)](https://www.boot.dev/certificates/62adfadf-6330-41dd-b02b-1eb5c6b894b8)
+[![Boot.dev Learn SQL certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/958ce8cc-aedf-4d70-bf4d-7cad115bfc52.jpeg?v=1777519300)](https://www.boot.dev/certificates/958ce8cc-aedf-4d70-bf4d-7cad115bfc52)
 <!--
 **CottonBall10/CottonBall10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
